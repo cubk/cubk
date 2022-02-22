@@ -2,6 +2,12 @@
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=cubk)
 
 Just a malware enthusiast and Like hypixel games (and hacking)
+
+Email:Ceeyourbac@126.com
+### Projects
+#### [CzfClient - Free Minecraft 1.8.8 for Hypixel Hacked Client](https://github.com/McModuleStudio/czfclient)
+#### [MalwareDB - 300+ malware collection](https://github.com/cubk/HackToolsAndMalwareDB/tree/main/MalwareDB)
+#### [Carbontrioxide - AntiPE Boot and Hardware Destroy Malware Project](https://github.com/cubk/Carbontrioxide/releases/tag/Main)
 ### Programming language
 ![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
 ![VisualBasic](https://img.shields.io/badge/-VisualBasic-blue?style=for-the-badge&logo=.NET&logoColor=white)

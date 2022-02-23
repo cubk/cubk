@@ -18,3 +18,6 @@ Email:Ceeyourbac@126.com
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubk)](https://github.com/anuraghazra/github-readme-stats)
